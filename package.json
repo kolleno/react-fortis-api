@@ -29,7 +29,7 @@
     "trailingComma": "es5",
     "quoteProps": "preserve"
   },
-  "name": "fortis-apilib",
+  "name": "@kolleno/react-fortis-api",
   "description": "",
   "author": {
     "name": "APIMATIC SDK Generator"
